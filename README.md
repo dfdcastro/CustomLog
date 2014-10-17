@@ -7,14 +7,16 @@ How To Use
 ----------
 
 To use is necessary to import DCLog.h and DCLog.m for your project and import the header file in Prefix.pch.
-
-![Image of Yaktocat]()
+<br/>
+![Image of Yaktocat](https://raw.githubusercontent.com/dfdcastro/CustomLog/master/Screenshots/Code.png)
 
 Result
 ----------
-
-![Image of Yaktocat]()
+<br/>
+![Image of Yaktocat](https://raw.githubusercontent.com/dfdcastro/CustomLog/master/Screenshots/Result.png)
 
 ## Licenses
 
-All source code is licensed under the [MIT License](https://raw.github.com/rs/SDWebImage/master/LICENSE).
+All source code is available under the MIT license. 
+<br/>
+See the LICENSE file for more info.
